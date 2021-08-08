@@ -40,7 +40,7 @@
 ## In which domains Python is used?
 ####     • Python is everywhere. There is nothing you can’t do with it.
 
-• Data Science &emsp; • Machine Learning &emsp; • Artificial Intelligence &emsp; • GUI and Game development
+• Data Science &emsp; • Machine Learning &emsp; • Artificial Intelligence &emsp; • GUI and Game development &emsp;
 • Web development &emsp; • Computer Vision (CV)/ Image manipulation &emsp; • Robotics
 • Web Scraping &emsp; • Network Programming &emsp; • Numeric and Scientific Computing
 
